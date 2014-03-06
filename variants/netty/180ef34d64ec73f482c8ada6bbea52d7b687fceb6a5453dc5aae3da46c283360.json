@@ -1,0 +1,132 @@
+{
+  "id" : "netty",
+  "info" : { },
+  "attributes" : {
+    "organization" : [ "io.netty" ],
+    "name" : [ "netty" ],
+    "version" : [ "3.7.0.Final" ]
+  },
+  "configurations" : [ {
+    "id" : "default",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "aa44be64442b9cbc5edd521476b9f1c272eec6a53dca104cf3032f42ad20ff89",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "netty-3.7.0.Final.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "javadoc",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "system",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "runtime",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "optional",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "test",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "provided",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "master",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "aa44be64442b9cbc5edd521476b9f1c272eec6a53dca104cf3032f42ad20ff89",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "netty-3.7.0.Final.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "sources",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "compile",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "io.netty" ],
+      "name" : [ "netty" ],
+      "version" : [ "3.7.0.Final" ]
+    },
+    "requirements" : [ ]
+  } ]
+}
